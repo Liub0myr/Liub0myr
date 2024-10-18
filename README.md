@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<!--## Hi there 👋-->
+## Ukrainians continue to fight for their right to live.
+**You can help us by donating to <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly" target="_blank">International charity foundation Come Back Alive</a> to save the lives of millions of Ukrainians who are still experiencing the horrors of war and continue to fight to protect not only themselves but also the whole of Europe.**    
+*The organization does not use funds to purchase weapons. Its mission is solely to supply technology, training and ammunition to help save the lives of Ukrainians and help soldiers defend Ukraine.*
 <!--
 **Liub0myr/Liub0myr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
